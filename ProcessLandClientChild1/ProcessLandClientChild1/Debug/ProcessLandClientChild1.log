@@ -5,11 +5,11 @@
 c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(5): warning C4603: 'WIN32_LEAN_AND_MEAN': macro is not defined or definition is different after precompiled header use
   c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(5): note: Add macro to precompiled header instead of defining here
   c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(7): note: use of precompiled header
-c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(73): warning C4101: 'recvbuf': unreferenced local variable
-c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(175): warning C4101: 'iSendResultServer': unreferenced local variable
-c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(176): warning C4101: 'crecvbuf': unreferenced local variable
-c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(249): warning C4101: 'recvbuf': unreferenced local variable
+c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(74): warning C4101: 'recvbuf': unreferenced local variable
+c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(155): warning C4101: 'iSendResultServer': unreferenced local variable
+c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(156): warning C4101: 'crecvbuf': unreferenced local variable
+c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(230): warning C4101: 'recvbuf': unreferenced local variable
   ServerInfo.cpp
   Generating Code...
-c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(336): warning C4715: 'consoleThread': not all control paths return a value
+c:\users\etuna\source\repos\processlandclientchild1\processlandclientchild1\processlandclientchild1.cpp(321): warning C4715: 'consoleThread': not all control paths return a value
   ProcessLandClientChild1.vcxproj -> C:\Users\etuna\source\repos\ProcessLandClientChild1\Debug\ProcessLandClientChild1.exe
