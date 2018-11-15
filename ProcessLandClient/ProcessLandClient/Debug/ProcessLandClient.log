@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  ClientInfo.cpp
+  Process.cpp
+  ProcessLandClient.cpp
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(5): warning C4603: 'WIN32_LEAN_AND_MEAN': macro is not defined or definition is different after precompiled header use
+  c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(5): note: Add macro to precompiled header instead of defining here
+  c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(7): note: use of precompiled header
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(244): warning C4101: 'crecvbuf2': unreferenced local variable
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(243): warning C4101: 'iSendResultServer2': unreferenced local variable
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(73): warning C4101: 'recvbuf': unreferenced local variable
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(175): warning C4101: 'iSendResultServer': unreferenced local variable
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(176): warning C4101: 'crecvbuf': unreferenced local variable
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(335): warning C4101: 'recvbuf': unreferenced local variable
+  ServerInfo.cpp
+  Generating Code...
+c:\users\etuna\source\repos\processlandclient\processlandclient\processlandclient.cpp(423): warning C4715: 'consoleThread': not all control paths return a value
+  ProcessLandClient.vcxproj -> C:\Users\etuna\source\repos\ProcessLandClient\Debug\ProcessLandClient.exe
